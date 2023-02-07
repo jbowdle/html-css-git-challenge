@@ -20,3 +20,18 @@ Comments were added in the HTML and CSS to improve readability and understanding
 
 ### Commit 4
 > Created README
+
+### Commit 5
+> fixed seo link
+
+The article with the "search-engine-optimization" class had a broken link, which was fixed by adding an id to the article.
+
+### Commit 6
+> finalized readme
+
+## Deployed website url
+https://jbowdle.github.io/html-css-git-challenge/
+
+## Screenshots
+[Screenshot of top of page](assets/images/screenshot-1.jpg)
+[Screenshot of articles and aside](assets/images/screenshot-2.jpg)
